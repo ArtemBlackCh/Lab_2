@@ -1,0 +1,9 @@
+body {
+  background-color: #90c98b; 
+  color: #4b2e10;  
+  font-family: "Times New Roman", serif;
+  margin: 20px 40px;
+}
+h1, h2 { text-align: center; }
+a { color: #4f4f4f; } 
+dt { font-weight: bold; margin-top: 12px; }

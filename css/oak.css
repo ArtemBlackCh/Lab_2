@@ -1,0 +1,20 @@
+body {
+  background-color: #90c98b;
+  color: #4b2e10;
+  font-family: "Times New Roman", serif;
+  margin: 20px 40px;
+}
+a { color: #4f4f4f; }
+h1 { text-align: center; }
+p { text-align: justify; }
+
+.left  { float: left;  margin: 0 15px 10px 0; }
+.right { float: right; margin: 0 0 10px 15px; }
+
+/* Абзац 1*/
+.p1 { color: #800020; font-weight: bold; }
+/* Абзац 2*/
+.p2 { font-style: italic; }
+/* Абзац 3*/
+.first-word { color: red; }
+.clear { clear: both; }

@@ -1,0 +1,10 @@
+body {
+  background-image: url("../img/forest-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #ffffff;
+  font-family: "Times New Roman", serif;
+  margin: 20px 40px;
+}
+a { color: #ffffff; }
